@@ -1,10 +1,9 @@
 - 👋 Hello.iam murshid kp
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on it company's
+- 🌱 I’m working  devops Engineer/ Cloud instructor
+- 💞️ I’m currently Working Cozmek.Pvt.Ltd
 - 📫 conduct on murshidkppp@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
+  
 
 <!---
 murshi48/murshi48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
